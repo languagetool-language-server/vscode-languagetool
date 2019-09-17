@@ -47,7 +47,34 @@
           "type": "boolean",
           "default": true,
           "description": "Allow to enable languageTool on specific workspaces"
+        },
+        "languageTool.publicFallback": {
+          "type": "boolean",
+          "default": false,
+          "description": "Fallback to the public LanguageTool API Service."
+        },
+        "languageTool.serverUrl": {
+          "type": "string",
+          "default": "",
+          "description": "URL of LanguageTool server or the path to your local languagetool-server.jar."
+        },
+        "languageTool.localPort": {
+          "type": "integer",
+          "default": "8081",
+          "description": "Port for local LanguageTool service."
+        },
+        "languageTool.manageLocalServce": {
+          "type": "boolean",
+          "default": false,
+          "description": "Start and stop the LanguageTool service."
+        },
+        "languageTool.localConfig": {
+          "type": "string",
+          "default": "",
+          "description": "Path to a config file for the local LanguageTool service."
         }
+
+
       }
     }
   },
