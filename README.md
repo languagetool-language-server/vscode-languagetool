@@ -8,7 +8,7 @@ Here are some alternative extensions:
 
 1. [LT<sub>E</sub>X](https://github.com/valentjn/vscode-ltex), which is a fork of @adamvoss original work by @valentjn and thus is preserving his code and memory, which was the most important thing that kept me hanging on to these projects.
 1. [LanguageTool Linter](), which is a new extension I've authored based on the [Atom Linter LanguageTool]() extension.
-1. [](https://marketplace.visualstudio.com/items?itemName=raymondcamden.languagetool), which I know nother about.
+1. [languagetool](https://marketplace.visualstudio.com/items?itemName=raymondcamden.languagetool), which I know nothing about.
 
 Good luck, and Peace.
 
